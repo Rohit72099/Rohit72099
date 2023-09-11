@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit72099
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .python
+- 🌱 my coding skills are C++,python,C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rk464152@gamil.com
 
