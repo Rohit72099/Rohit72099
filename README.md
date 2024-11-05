@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rohit72099&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit72099&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit72099&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# Hacktoberfest badge
+[![An image of @rohit72099's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohit72099)](https://holopin.io/@rohit72099)
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohit72099&icon=0&color=0)](https://visitcount.itsvg.in)
 
