@@ -29,8 +29,11 @@
   </a>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=Rohit72099&color=blue)
 
-[![](https://visitcount.itsvg.in/api?id=Rohit72099&icon=0&color=0)](https://visitcount.itsvg.in)
----
+
+<!--  
+---   -->
+<!--[![](https://visitcount.itsvg.in/api?id=Rohit72099&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
