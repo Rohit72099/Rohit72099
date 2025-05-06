@@ -29,7 +29,8 @@
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Rohit72099&color=blue)
+
+  ![Profile views](https://komarev.com/ghpvc/?username=Rohit72099&color=blue)
 
 
 <!--  
